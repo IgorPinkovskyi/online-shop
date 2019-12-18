@@ -54,5 +54,13 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Tesla Cybertruck",
+        "image": "cybertruck.jpg",
+        "description": "Best truck car in the World",
+        "price": 39999.99 
     }
+
 ]
